@@ -1,0 +1,51 @@
+/*--------------------------------------------basic*/
+
+body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background: grey;
+}
+
+a{
+    text-decoration: none;
+
+}
+
+
+
+
+
+/*--------------------------------------------Hero*/
+
+.hero-image{
+    position: relative;
+    height: 500px;
+    overflow: hidden;
+    background-image: url('../images/dublin.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.container{
+    
+    text-align: center;
+    margin: 50px auto;
+    color: red;
+}
+
+h1{
+    font-family: 'bebasneueregular', sans-serif;
+    letter-spacing: 2px;
+    font-size: 50px;
+}
+
+.btn{
+    text-decoration: none;
+    color: blue;
+   
+    }
+.fa-angle-down{
+    margin-top: 400px;
+}
