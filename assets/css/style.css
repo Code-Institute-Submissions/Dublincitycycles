@@ -28,15 +28,16 @@ a{
     background-size: cover;
 }
 
-.container{
+.hero-info{
     
     text-align: center;
     margin: 50px auto;
-    color: red;
+    
 }
 
 h1{
     font-family: 'bebasneueregular', sans-serif;
+    color: #f65868;
     letter-spacing: 2px;
     font-size: 50px;
 }
@@ -46,6 +47,52 @@ h1{
     color: blue;
    
     }
-.fa-angle-down{
-    margin-top: 400px;
+
+/*--------------------------------------------Info-text*/
+
+.info-block{
+    text-align: left;
+    margin: 50px auto;
+}
+
+.info-heading{
+    font-family:'bebasneueregular', sans-serif;
+    color:  #f65868;
+    letter-spacing: 2.5px;
+}
+
+.info-text{
+     font-family: 'bebasneueregular', sans-serif;
+     color: black;
+}
+
+/*--------------------------------------------Cards*/
+
+.bikes-header{
+    margin: 25px auto;
+    text-align: center;
+}
+
+.our-bikes{
+    font-family: 'bebasneueregular', sans-serif;
+    letter-spacing: 2.5px;
+    color:  #f65868; 
+}
+
+.bike-cards{
+    margin: 50px auto;
+}
+
+.card-title{
+    font-family: 'bebasneueregular', sans-serif;
+    letter-spacing: 2.5px;
+    color:  #f65868;
+}
+
+/*--------------------------------------------Footer*/
+
+.social-footer{
+    text-align: center;
+    color:  #f65868;
+
 }
