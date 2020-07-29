@@ -1,5 +1,13 @@
 /*--------------------------------------------basic*/
 
+#logo{
+    font-size: 50px;
+}
+
+.nav-link{
+    font-family: 'bebasneueregular', sans-serif;
+}
+
 body{
     height: 100%;
     margin: 0;
@@ -9,11 +17,13 @@ body{
 
 a{
     text-decoration: none;
-
+    font-family: 'bebasneueregular', sans-serif;
+    
 }
 
-
-
+i{
+    color:#f65868;
+}
 
 
 /*--------------------------------------------Hero*/
@@ -79,8 +89,18 @@ h1{
     color:  #f65868; 
 }
 
+.card-deck{
+    margin: 25px auto;
+
+}
+.card{
+    max-width: 300px;
+    
+}
+
 .bike-cards{
     margin: 50px auto;
+    
 }
 
 .card-title{
@@ -89,10 +109,52 @@ h1{
     color:  #f65868;
 }
 
+.card-text{
+  font-family: 'bebasneueregular', sans-serif;  
+}
+
 /*--------------------------------------------Footer*/
 
 .social-footer{
     text-align: center;
     color:  #f65868;
+
+}
+
+a{
+    color:  #f65868;
+}
+
+.footer-icon{
+    font-size: 50px;
+}
+
+h6{
+    letter-spacing: 2px;
+}
+
+
+
+
+/*--------------------------------------------Contact*/
+
+.contact-text{
+    font-family: 'bebasneueregular', sans-serif;  
+}
+
+label{
+    color: #f65868;
+    text-transform: uppercase;
+}
+
+/*--------------------------------------------Routes*/
+
+.additional{
+    color: #f65868;
+}
+
+.route-cards{
+    margin: 35px auto;
+    max-width: 85%;
 
 }
