@@ -6,6 +6,7 @@
 
 .nav-link{
     font-family: 'bebasneueregular', sans-serif;
+    font-size: 30px;
 }
 
 body{
@@ -24,6 +25,11 @@ a{
 i{
     color:#f65868;
 }
+
+/*--------------------------------------------Navigation*/
+
+
+
 
 
 /*--------------------------------------------Hero*/
@@ -69,10 +75,16 @@ h1{
     font-family:'bebasneueregular', sans-serif;
     color:  #f65868;
     letter-spacing: 2.5px;
+    text-align: center;
+}
+
+.info-logo{
+    padding-left: 15px;
 }
 
 .info-text{
-     font-family: 'bebasneueregular', sans-serif;
+     font-family: 'Barlow Condensed', sans-serif;
+     text-transform: uppercase;
      color: black;
 }
 
@@ -82,6 +94,13 @@ h1{
     margin: 25px auto;
     text-align: center;
 }
+
+.bike-subheading{
+    font-family: 'Barlow Condensed', sans-serif;
+    text-transform: uppercase;
+    color: black  
+}
+
 
 .our-bikes{
     font-family: 'bebasneueregular', sans-serif;
@@ -110,7 +129,8 @@ h1{
 }
 
 .card-text{
-  font-family: 'bebasneueregular', sans-serif;  
+  font-family: 'Barlow Condensed', sans-serif;
+  text-transform: uppercase; 
 }
 
 /*--------------------------------------------Footer*/
@@ -131,6 +151,14 @@ a{
 
 h6{
     letter-spacing: 2px;
+    font-size: 30px;
+}
+
+.footer-text{
+  font-family: 'Barlow Condensed', sans-serif;
+  text-transform: uppercase; 
+  padding-top: 15px;
+
 }
 
 
@@ -156,5 +184,45 @@ label{
 .route-cards{
     margin: 35px auto;
     max-width: 85%;
+
+}
+
+/*--------------------------------------------Gallery*/
+
+.gallery-heading{
+    margin: 20px auto;
+    font-family: 'bebasneueregular', sans-serif;
+    color: #f65868;
+    text-align: center;
+}
+
+#gallery{
+    margin-top: 25px;
+    line-height: 0;
+    clear: both;
+    column-count: 4;
+    column-gap: 0px;
+    overflow: none;
+}
+
+#photo img{
+    width: 100%;
+}
+
+@media screen and (max width: 943px) {
+
+#gallery{
+column-count: 3;
+
+}
+
+
+}
+
+@media screen and (max width: 800px){
+
+#gallery{
+    column-count: 2;
+}
 
 }
