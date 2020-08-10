@@ -84,7 +84,7 @@ h1{
 
 .info-text{
      font-family: 'Barlow Condensed', sans-serif;
-     text-transform: uppercase;
+     font-size: 16px;
      color: black;
 }
 
@@ -130,7 +130,7 @@ h1{
 
 .card-text{
   font-family: 'Barlow Condensed', sans-serif;
-  text-transform: uppercase; 
+  font-size: 16px;
 }
 
 /*--------------------------------------------Footer*/
@@ -214,6 +214,102 @@ label{
 #photo img{
     width: 100%;
 }
+/*--------------------------------------------Testimonials*/
+
+.testimonials{
+padding: 40px 0;
+background: grey;
+color: black;
+text-align: center;
+}
+
+.inner{
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 20px;
+}
+
+.border{
+    width: 160px;
+    height: 5px;
+    margin: 26px auto;
+
+}
+
+
+.testi-row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.testi-col{
+    flex: 33.33%;
+    max-width: 33.33%;
+    box-sizing: border-box;
+    padding: 15px;
+
+}
+
+.testimonial{
+    background: #fff;
+    padding: 30px;
+
+}
+
+.testimonial img{
+    border-radius: 50%;
+}
+
+.name{
+    font-family: 'bebasneueregular', sans-serif;
+    margin: 15px 0;
+    font-size: 30px;
+    letter-spacing: 2px;
+}
+
+
+.stars{
+    color: #f65868;;
+    margin: 15px; 0;
+
+}
+
+.testi-text{
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 16px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*--------------------------------------------Media Query*/
+
+@media screen and (max-width:960px){
+    .testi-col{
+        flex: 100%;
+        max-width: 80%;
+    }
+}
+
+@media screen and (max-width:600px){
+    .testi-col{
+        flex: 100%;
+        max-width: 100%;
+    }
+}
+
+
 
 @media screen and (max-width: 943px) {
 
@@ -231,4 +327,13 @@ column-count: 3;
     column-count: 1;
 }
 
+}
+
+@media screen and (min-width: 989px) {
+  
+textarea {
+    columns: 50;
+
+
+  }
 }
