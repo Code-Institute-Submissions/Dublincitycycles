@@ -1,39 +1,34 @@
 <img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome blynch11,
+Welcome to Dublin Coastal & City Cycles - By Brendan Lynch
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+Overview:
 
-## Gitpod Reminders
+This is my first milestone project for the Code Institute. The projects specifications are to create a fully functioning webpage 
+using HTML, CSS & applicable frameworks. The chosen site is something I have a keen interest in - cycling, and allowed me to have
+ some fun while creating this project. I tried to keep things relatively simple, as this is my first time building a site. I used
+ bootstrap quite a bit to assist me in developing a mobile first site. 
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+User Experience:
 
-`python3 -m http.server`
+As this site is designed for tourists, or for Irish people who are looking for something new, I tried to keep the site as easy to 
+navigate and 'to the point' as possible. I also included many visuals to entice perspective customers to book a tour with us. 
+The site is consistent in how it is presented, with each page having a nav bar and footer - both of which have links to other pages.
+The font familys chosen (bebas and barlow) are both easily legible. Bebas is used for headings/subheadings and is quite sleek and stylish
+in appearance. I have chosen contrasting colours of black and bright red/pink to really grab the users attention and offer an attractive
+look throughout the site.
 
-A blue button should appear to click: *Make Public*,
+Technologies used:
 
-Another blue button should appear to click: *Open Browser*.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
+HyperText Markup Language (HTML): The standard language for building web pages. https://www.w3schools.com/html/default.asp
+Cascading Style Sheets (CSS): The language that describes the style of an element in HTML, it enables efficient scaling of certain predefined styles. https://www.w3schools.com/css/default.asp
+Bootstrap: A front end framework that helps you rapidly create attractive and responsive webpages with it's very helpful library of templates. https://getbootstrap.com/
+Gitpod: An online Integrated Development Environment (IDE) used for creating and storing your code. https://www.gitpod.io/
+Git: Version control system for tracking changes to your coding projects. https://git-scm.com/
+Github: A software development repository where people can host and collaborate on coding projects. https://github.com/
+Chrome DevTools: For editing pages and diagnosing issues via Google Chrome browse. https://developers.google.com/web/tools/chrome-devtools
+Fontawesome for their lovely icons. https://fontawesome.com/
+Google fonts for their fonts. https://fonts.google.com/
+Royalty free images: https://unsplash.com/s/photos/dashboard https://pixabay.com/ https://images.google.com/ (labeled for reuse)
+W3C Markup Validation for error checking my code. https://validator.w3.org/#validate_by_uri
+Google and Youtube 
