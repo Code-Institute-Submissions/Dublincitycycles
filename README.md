@@ -9,7 +9,7 @@
 This website is the main tool to drive business for Dublin City Cycles. It is responsive & easy to navigate, and full of scenic images to help promote the beautiful routes that will
 be explored as part of the tours offered by DCC. 
 
-<h2 align="center"><img src="https://i.ibb.co/TYvTXz1/Example-CI.png"></h2>
+<h2 align="center"><img src="/documentation/readme-hero.jpg"></h2>
 
 ## User Experience (UX)
 
@@ -180,13 +180,7 @@ The project was deployed to GitHub Pages using the following steps...
 5. The page will automatically refresh.
 6. Scroll back down through the page to locate the now published site [link](https://blynch11.github.io/Dublincitycycles/index.html) in the "GitHub Pages" section.
 
-### Forking the GitHub Repository
 
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
-
-1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
-2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-3. You should now have a copy of the original repository in your GitHub account.
 
 ### Cloning
 
@@ -201,13 +195,13 @@ I created a local clone to work locally. I followed the Code Institute instructi
 5. Change the current working directory to the location where you want the cloned directory to be made.
 6. Type `git clone`, and then paste the URL you copied in Step 3.
 
-```
+
 $ git clone https://blynch11.github.io/Dublincitycycles/index.html
-```
+
 
 7. Press Enter. Your local clone will be created.
 
-```
+
 
 
 Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository#cloning-a-repository-to-github-desktop) to retrieve pictures for some of the buttons and more detailed explanations of the above process.
