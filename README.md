@@ -46,11 +46,11 @@ be explored as part of the tours offered by DCC.
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](https://github.com/)
+    -   Home Page Wireframe - [View] (https://github.com/blynch11/Dublincitycycles/blob/master/documentation/desktopwireframe.png)
 
-    -   Mobile Wireframe - [View](https://github.com/)
+    -   Mobile Wireframe - [View]  (https://github.com/blynch11/Dublincitycycles/blob/master/documentation/mobilewireframe.png)
 
-    -   Contact Us Page Wireframe - [View](https://github.com/)
+    
 
 ## Features
 
@@ -114,6 +114,8 @@ make sure that there were no grammatical errors on the site.
         1.1. Upon landing on the site customers can see a snapshot of what to expect during a tour on our large hero image. A simple scroll will offer them more info about DCC
             and the routes page will give more details about the routes we offer. 
 
+    <img src="/documentation/mobile.png">
+
     2. I want to be able to easily navigate throughout the site to find the tour that suits me and my party best. 
 
         2.1. The ever present nav-bar makes navigation easy for potential customers. 
@@ -124,11 +126,14 @@ make sure that there were no grammatical errors on the site.
         3.1. The routes page of the site contains a detailed description of each route, along with a picture of that route.
         3.2. The routes page also contains a gallery of vivid images of the four routes.
 
+        <img src="/documentation/desktop-routes.png">
+
     4. I want to see previous customer testimonials and reviews. 
 
         4.1. The testimonials page allows customers to hear about previous customers experiences on the tour.
         4.2. There are also links to our social media account where potential customers can hear more about previous customers experiences.
 
+        <img src="/documentation/testimonials.png">
 
     
 
