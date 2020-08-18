@@ -4,7 +4,7 @@
 
 <h1 align="center">Dublin City Cycles</h1>
 
-[View the live project here.](https://codeinstitute.net)
+[View the live project here.](https://blynch11.github.io/Dublincitycycles/)
 
 This website is the main tool to drive business for Dublin City Cycles. It is responsive & easy to navigate, and full of scenic images to help promote the beautiful routes that will
 be explored as part of the tours offered by DCC. 
@@ -17,28 +17,32 @@ be explored as part of the tours offered by DCC.
 
     -   #### First Time Visitor Goals
 
-        1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
-        2. As a First Time Visitor, I want to be able to easily navigate throughout the site to find content.
-        3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their followings on social media to determine how trusted and known they are.
+        1. As a First Time Visitor and prospective customer, I want to easily understand what the tours this site offers for cyclists looking to explore Dublin
+        2. I want to be able to easily navigate throughout the site to find the tour that suits me and my party best. 
+        3. I want to be able to see pictures of the routes & bikes to get a taste for what a tour might be like.
+        4. I want to see previous customer testimonials and reviews. 
+        5. I want to be able to view their social media accounts to see more picutures and hear more stories from previous customers. 
 
     -   #### Returning Visitor Goals
 
-        1. As a Returning Visitor, I want to find information about coding challenges.
-        2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-        3. As a Returning Visitor, I want to find community links.
+        1. As a Returning Visitor, I want to be able to rebook easily and follow DCC on social media. 
+        2. As a Returning Visitor, I want to be able to contact the company for any follow up info I may need after a tour. 
+        
 
     -   #### Frequent User Goals
-        1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-        2. As a Frequent User, I want to check to see if there are any new blog posts.
-        3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
+        1. As a Frequent User, I want to check if any new routes have been added.
+        2. As a Frequent User, I want to check to see if there are any promotions available. 
+      
 
 -   ### Design
     -   #### Colour Scheme
-        -   The two main colours used are Code Insititue red, and white.
+        -   The main colours I used for my site are a pink, gray and black. I think the pink stands out nicely on the gray background and the black info text provides clearly legible information for customers.
     -   #### Typography
-        -   The Montserrat font is the main font used throughout the whole website with Sans Serif as the fallback font in case for any reason the font isn't being imported into the site correctly. Montserrat is a clean font used frequently in programming, so it is both attractive and appropriate.
+        -   The two types of font used are Bebasneueregular & Barlow. The Bebasneueregular is used for headings and larger text. I love this text as I feel it has a streamlined feel to it, which represents the 
+            speed at which we will travel on our cycling tours. It is easily legible and attractive for customers. The Barlow text is more formal and contrasts beautifully with the Bebasneueregular.
     -   #### Imagery
-        -   Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+        -   Imagery is a very important part of my site. I am trying to sell the customers scenic tours around Dublin, so I chose to have a big, bold hero image of Dublin City to greet new & returning
+            customers to the site. I added a gallery and some overhead shots of the routes to show the customer what they can expect to experience on a DCC tour. 
 
 *   ### Wireframes
 
@@ -65,7 +69,7 @@ be explored as part of the tours offered by DCC.
 -  Chrome DevTools: For editing pages and diagnosing issues via Google Chrome browse. https://developers.google.com/web/tools/chrome-devtools
 -  Fontawesome for their lovely icons. https://fontawesome.com/
 -  Google fonts for their fonts. https://fonts.google.com/
--  Royalty free images: https://unsplash.com/s/photos/dashboard https://pixabay.com/ https://images.google.com/ (labeled for reuse)
+-  Royalty free images: https://pixabay.com/ https://images.google.com/ (labeled for reuse)
 -  Google Images (labeled for reuse) for images
 -  W3C Markup Validation for error checking my code. https://validator.w3.org/#validate_by_uri
 -  Google and Youtube 
@@ -105,57 +109,42 @@ make sure that there were no grammatical errors on the site.
 
 -   #### First Time Visitor Goals
 
-    1. As a First Time Visitor, I want to easily understand the main purpose of the site and learn more about the organisation.
+    1. As a First Time Visitor and prospective customer, I want to easily understand what tours this site offers for cyclists looking to explore Dublin
 
-        1. Upon entering the site, users are automatically greeted with a clean and easily readable navigation bar to go to the page of their choice. Underneath there is a Hero Image with Text and a "Learn More" Call to action button.
-        2. The main points are made immediately with the hero image
-        3. The user has two options, click the call to action buttons or scroll down, both of which will lead to the same place, to learn more about the organisation.
+        1.1. Upon landing on the site customers can see a snapshot of what to expect during a tour on our large hero image. A simple scroll will offer them more info about DCC
+            and the routes page will give more details about the routes we offer. 
 
-    2. As a First Time Visitor, I want to be able to easily be able to navigate throughout the site to find content.
+    2. I want to be able to easily navigate throughout the site to find the tour that suits me and my party best. 
 
-        1. The site has been designed to be fluid and never to entrap the user. At the top of each page there is a clean navigation bar, each link describes what the page they will end up at clearly.
-        2. At the bottom of the first 3 pages there is a redirection call to action to ensure the user always has somewhere to go and doesn't feel trapped as they get to the bottom of the page.
-        3. On the Contact Us Page, after a form response is submitted, the page refreshes and the user is brought to the top of the page where the navigation bar is.
+        2.1. The ever present nav-bar makes navigation easy for potential customers. 
+        2.2. Footer links are also available for customers on each page.  
+        
+    3. I want to be able to see pictures of the routes & bikes to get a taste for what a tour might be like.
 
-    3. As a First Time Visitor, I want to look for testimonials to understand what their users think of them and see if they are trusted. I also want to locate their social media links to see their following on social media to determine how trusted and known they are.
-        1. Once the new visitor has read the About Us and What We Do text, they will notice the Why We are Loved So Much section.
-        2. The user can also scroll to the bottom of any page on the site to locate social media links in the footer.
-        3. At the bottom of the Contact Us page, the user is told underneath the form, that alternatively they can contact the organisation on social media which highlights the links to them.
+        3.1. The routes page of the site contains a detailed description of each route, along with a picture of that route.
+        3.2. The routes page also contains a gallery of vivid images of the four routes.
+
+    4. I want to see previous customer testimonials and reviews. 
+
+        4.1. The testimonials page allows customers to hear about previous customers experiences on the tour.
+        4.2. There are also links to our social media account where potential customers can hear more about previous customers experiences.
+
+
+    
+
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning Visitor, I want to find the new programming challenges or hackathons.
+    1. As a Returning Visitor, I want to be able to rebook easily and follow DCC on social media. 
 
-        1. These are clearly shown in the banner message.
-        2. They will be directed to a page with another hero image and call to action.
-
-    2. As a Returning Visitor, I want to find the best way to get in contact with the organisation with any questions I may have.
-
-        1. The navigation bar clearly highlights the "Contact Us" Page.
-        2. Here they can fill out the form on the page or are told that alternatively they can message the organisation on social media.
-        3. The footer contains links to the organisations Facebook, Twitter and Instagram page as well as the organization's email.
-        4. Whichever link they click, it will be open up in a new tab to ensure the user can easily get back to the website.
-        5. The email button is set up to automatically open up your email app and autofill there email address in the "To" section.
-
-    3. As a Returning Visitor, I want to find the Facebook Group link so that I can join and interact with others in the community.
-        1. The Facebook Page can be found at the footer of every page and will open a new tab for the user and more information can be found on the Facebook page.
-        2. Alternatively, the user can scroll to the bottom of the Home page to find the Facebook Group redirect card and can easily join by clicking the "Join Now!" button which like any external link, will open in a new tab to ensure they can get back to the website easily.
-        3. If the user is on the "Our Favourites" page they will also be greeted with a call to action button to invite the user to the Facebook group. The user is incentivized as they are told there is a weekly favourite product posted in the group.
-
--   #### Frequent User Goals
-
-    1. As a Frequent User, I want to check to see if there are any newly added challenges or hackathons.
-
-        1. The user would already be comfortable with the website layout and can easily click the banner message.
-
-    2. As a Frequent User, I want to check to see if there are any new blog posts.
-
-        1. The user would already be comfortable with the website layout and can easily click the blog link
-
-    3. As a Frequent User, I want to sign up to the Newsletter so that I am emailed any major updates and/or changes to the website or organisation.
-        1. At the bottom of every page their is a footer which content is consistent throughout all pages.
-        2. To the right hand side of the footer the user can see "Subscribe to our Newsletter" and are prompted to Enter their email address.
-        3. There is a "Submit" button to the right hand side of the input field which is located close to the field and can easily be distinguished.
+        1.1. Returning visitors will be able to rebook a tour in a matter of seconds, via the 'book now' call to action button the home page hero image.
+        1.2. Alternatively, returning visitors can navigate throughout the site at ease if further research of routes is required before rebooking. This can be done
+             by engaging the nav-bar at the top of the page or using the link to routes at the bottom of the home page.
+        1.3. Following us on social media couldn't be easier, with links to all of our accounts available at the bottom of every page of the site.
+        
+        
+        
+   
 
 ### Further Testing
 
@@ -230,7 +219,7 @@ Click [Here](https://help.github.com/en/github/creating-cloning-and-archiving-re
 
 -   All content was written by the developer.
 
--   Psychological properties of colours text in the README.md was found [here](http://www.colour-affects.co.uk/psychological-properties-of-colours)
+
 
 ### Media
 
